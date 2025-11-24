@@ -3,3 +3,4 @@ def add(x: int, y: int) -> int:
      #raise TypeError("Both arguments must be integers")
     """Returns the sum of two integers."""
     return x + y
+
